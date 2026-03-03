@@ -1,0 +1,10 @@
+
+[sncast.bitshield]
+account = "bitshield"
+accounts-file = "/home/anshul/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+network = "sepolia"
+
+[sncast.bitshield_old]
+account = "bitshield_old"
+accounts-file = "/home/anshul/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+network = "sepolia"
