@@ -1,5 +1,9 @@
 # BitShield - Private Bitcoin Lending on Starknet
 
+<div align="center">
+  <img src="docs/bitshield.png" alt="BitShield Logo" width="200"/>
+</div>
+
 A privacy-preserving Bitcoin lending protocol built on Starknet that enables users to deposit BTC as collateral and borrow stablecoins without revealing their identity, loan amounts, or collateral values.
 
 ## 🎯 Overview
