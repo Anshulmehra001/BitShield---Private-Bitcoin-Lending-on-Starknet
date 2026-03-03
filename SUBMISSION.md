@@ -89,9 +89,7 @@ BitShield is a privacy-preserving Bitcoin lending protocol that uses Starknet's 
 ## Deployment
 
 - **Testnet**: Starknet Sepolia
-- **Contracts**: [Addresses TBD]
-- **Frontend**: [URL TBD]
-- **Demo Video**: [Link TBD]
+
 
 ## Team
 
@@ -99,11 +97,8 @@ Solo developer submission for Re{define} Hackathon
 
 ## Repository
 
-GitHub: [Repository URL]
+GitHub: https://github.com/Anshulmehra001/BitShield---Private-Bitcoin-Lending-on-Starknet
 
-## Wallet Address
-
-Starknet Address: [Your wallet address for prizes]
 
 ---
 
